@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Diploma</string>
+    <string name="button">exit</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="Accuracy">Accuracy</string>
+    <string name="Speed">Speed</string>
+    <string name="Date">Date</string>
+    <string name="Latitude_val">0</string>
+    <string name="Longitude_val">0</string>
+    <string name="Accuracy_val">0</string>
+    <string name="Speed_val">0</string>
+    <string name="Date_val">0</string>
+</resources>
